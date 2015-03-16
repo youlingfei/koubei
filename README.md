@@ -35,12 +35,12 @@ _( `高亮`表示本期修改 )_
 |:--|:--|:--|:--|:--|
 |brkColorBgPage	|页面背景色	|#FAFAFA|250,250,250|各页面背景|
 |brkColorBgBar	|栏背景色		|#F8F8F9|248,248,249|各种栏的背景色|
-|brkColorBgContent|内容背景色	|#FFFFFF|255,255,255|内容块的背景色|
+|brkColorBgContent	|内容背景色	|#FFFFFF|255,255,255|内容块的背景色|
 |brkColorBgSelect	|选中背景色	|#d6d6d6|214,214,214|内容块（卡片，列表）选中色|
 |brkColorLine	|分割线色		|#C8C7CC|200,199,204|分割线|
-|brkColorOption	|操作色		|#157EFB|21,126,251|操作图标，文字链接的颜色|
+|brkColorOption	|操作色		|#5677FC|86,119,252|操作图标，文字链接的颜色|
 |brkColorBgNotice	|通知色	|#FFD578|255,213,120|通知消息|
-|brkColorBgWarning	|警告色	|#FF6A6A|255,106,106|警告消息|
+|brkColorBgWarning	|警告色	|#FF4081|255,64,129|警告消息|
 
 
 #### c.彩色
@@ -48,8 +48,12 @@ _( `高亮`表示本期修改 )_
 
 |ID	|颜色名	|16进制色值	|RGB	|应用示例|
 |:--|:--|:--|:--|:--|
-|brkColorBlue	|蓝色	|#E54B00|229,75,0| |
-|brkColorOrange	|橙色	|#E54B00|229,75,0| |
+|brkColorBlue			|蓝色(主色调)	|#5677FC|86,119,252|顶栏 |
+|brkColorBlueLight		|浅蓝色	|#D0D9FF|208,217,255| |
+|brkColorBlueDark		|深蓝色	|#455EDE|69,94,222| |
+|brkColorAccent			|高亮色	|#40C4FF|64,196,255|按钮，部分控件 |
+|brkColorAccentLight	|浅高亮色	|#80D8FF|128,216,255| |
+|brkColorAccentDark		|深高亮色	|#0091EA|0,145,234| |
 
 
 ### 透明度
@@ -76,12 +80,12 @@ _( `高亮`表示本期修改 )_
 |brkFontDisplay1	|显示1	|68	|34	|34	|Regular|
 |brkFontHeadline	|头条	|48	|24	|24	|Regular|
 |brkFontTitle		|标题	|40	|20	|20	|Medium	|
-|brkFontSubhead		|副标题	|32	|16	|16	|Regular|
+|brkFontSubhead		|副标题	|36	|18	|18	|Regular|
 |brkFontBody2		|主体2	|28	|14	|14	|Medium	|
 |brkFontBody1		|主体1	|28	|14	|14	|Regular|
 |brkFontCaption		|说明	|24	|12	|12	|Regular|
-|brkFontMenu		|菜单	|28	|14	|14	|Medium	|
-|brkFontButton		|按钮	|28	|14	|14	|Medium	|
+|brkFontMenu		|菜单	|32	|16	|16	|Medium	|
+|brkFontButton		|按钮	|32	|16	|16	|Medium	|
 
 
 ### 间距
@@ -155,6 +159,13 @@ _( `高亮`表示本期修改 )_
 |_`cstm`_	|客户模块|
 |_`sqr`_	|广场模块|
 |_`my`_		|我的模块|   
+
+3. 状态名如下：	
+	
+|命名|对应模块|
+|:--|:--|
+|_`slt`_	|按下，选中|
+|_`dis`_	|不可用|
 
 
 ___
