@@ -80,7 +80,7 @@ _( `高亮`表示本期修改 )_
 |brkFontDisplay1	|显示1	|68	|34	|34	|Regular|
 |brkFontHeadline	|头条	|48	|24	|24	|Regular|
 |brkFontTitle		|标题	|40	|20	|20	|Medium	|
-|brkFontSubhead		|副标题	|36	|18	|18	|Regular|
+|brkFontSubhead		|副标题	|32	|16	|16	|Regular|
 |brkFontBody2		|主体2	|28	|14	|14	|Medium	|
 |brkFontBody1		|主体1	|28	|14	|14	|Regular|
 |brkFontCaption		|说明	|24	|12	|12	|Regular|
