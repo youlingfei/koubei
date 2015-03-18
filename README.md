@@ -96,7 +96,7 @@ _( `高亮`表示本期修改 )_
 
 |ID	|px_@2x(设计)	|dp(开发)	|说明|
 |:--|:--|:--|:--|
-|brkMarginChapter	|60	|30	||
+|brkMarginChapter	|64	|32	||
 |brkMarginSection	|48	|24	||
 |brkMarginPart		|40	|20	||
 |brkMargin1			|4	|2	||
