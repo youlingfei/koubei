@@ -64,6 +64,7 @@ _( `高亮`表示本期修改 )_
 |brkAlpha1	|B3	|70%	||
 |brkAlpha2	|66	|40%	||
 |brkAlpha3	|33	|20%	||
+|brkAlpha4	|E6	|90%	||
 
 
 ### 字体
